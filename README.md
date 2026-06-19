@@ -1,4 +1,4 @@
-<img width="992" height="751" alt="image" src="https://github.com/user-attachments/assets/5958d883-c98c-47ee-86ed-0d72b22d0715" />## Hi there 👋
+## Hi there 👋
 
 <!--
 **siddhant-rathour22/siddhant-rathour22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
