@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [SIDDHANT RATHOUR] 👋
+# Hi there, I'm SIDDHANT RATHOUR 👋
 
 I'm a developer focusing on data science, machine learning, and building robust web applications. Here are the tools and technologies I work with:
 
